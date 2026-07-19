@@ -6,10 +6,14 @@ I'm a Full-Stack Developer with a background in Fine Arts, building modern web a
 
 After several years working in design and digital communications across Turkey and Spain, I transitioned into software development. Today, I combine creativity with engineering to build intuitive, scalable and user-centered digital products.
 
+---
+
 ## 🚀 Currently Building
 
 ### Calmove
 A SaaS platform designed to help newcomers settle into a new city with personalized relocation guidance and practical resources.
+
+---
 
 ## 💼 Featured Projects
 
@@ -25,6 +29,7 @@ Full-stack web application with CRUD functionality, favourites management and a 
 Relocation SaaS platform focused on helping people adapt to life in a new city.
 **Tech:** React • JavaScript • Tailwind CSS • Node.js • Supabase
 
+---
 
 ## 🛠 Tech Stack
 
@@ -53,15 +58,17 @@ Relocation SaaS platform focused on helping people adapt to life in a new city.
 - Agile / Scrum
 - Conventional Commits
 
+---
 
 ## 🌍 About Me
 - 🎨 Fine Arts graduate turned developer
-- 🇹🇷 Originally from Turkey, currently based in Barcelona
+- 📍 Originally from Turkey, currently based in Barcelona
 - 🌎 Experienced working in multicultural teams across Turkey and Spain
 - 🎾 Tennis player
 - 🖌️ Passionate about painting and sculpture
 - 🚶 I love exploring cities on foot
 
+---
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: https://linkedin.com/in/burcu-cukurluoz/

@@ -68,19 +68,11 @@ A full-stack Star Wars encyclopedia featuring CRUD functionality, favourites man
 ## 🌍 About Me
 
 - 🎨 Fine Arts graduate turned Full-Stack Developer
-- 🇹🇷 Originally from Turkey, currently living in Barcelona
+- 📍  Originally from Turkey, currently living in Barcelona
 - 🌎 Experienced working in multicultural and international teams
 - 🎾 Tennis player
 - 🎨 Passionate about painting and sculpture
 - 🚶 Love exploring cities on foot
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burcuc-tech&show_icons=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burcuc-tech&layout=compact)
 
 ---
 
